@@ -1,0 +1,25 @@
+{
+  "name": "amalgamatic-google-custom-search",
+  "description": "Amalgamatic plugin for Google Custom Search API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ucsf-ckm/amalgamatic-google-custom-search.git"
+  },
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "node_modules/lab/bin/lab -t 100"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {
+    "code": "^1.2.1",
+    "jshint": "^2.5.10",
+    "lab": "^5.0.2",
+    "precommit-hook": "^1.0.7"
+  },
+  "keywords": [
+    "amalgamatic-plugin"
+  ]
+}
