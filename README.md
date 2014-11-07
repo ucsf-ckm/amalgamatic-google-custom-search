@@ -5,6 +5,8 @@ amalgamatic-google-custom-search
 
 [Amalgamatic](https://github.com/ucsf-ckm/amalgamatic) plugin for [Google Custom Search API](https://developers.google.com/custom-search/)
 
+This has not been published to npm. In fact, it doesn't even really contain much in the way of useful code. Just boilerplate in case someone ever wants to actually, you know, take the hour or so it would take to bust this out.
+
 ## Installation
 
 Install amalgamatic and this plugin via `npm`:
@@ -12,6 +14,8 @@ Install amalgamatic and this plugin via `npm`:
 `npm install amalgamatic amalgamatic-google-custom-search`
 
 ## Usage
+
+Well, there's no implementation right now, but if there was, it might work something like this:
 
 ````
 var amalgamatic = require('amalgamatic'),
